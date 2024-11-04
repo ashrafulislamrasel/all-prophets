@@ -1,6 +1,7 @@
 {
   "prophets": [
     {
+      "id": "1",
       "name": "Adam",
       "title": "Prophet",
       "attributes": ["First human being", "Father of humankind"],
@@ -11,6 +12,7 @@
       "notable_children": ["Habil", "Qabil", "Shith (Seth)"]
     },
     {
+      "id": "2",
       "name": "Idris",
       "title": "Prophet",
       "attributes": ["Known for wisdom", "Scribe"],
@@ -20,7 +22,8 @@
       "mother": "Baraka"
     },
     {
-      "name": "Nuh (Noah)",
+      "id": "3",
+      "name": "Nuh",
       "title": "Prophet",
       "attributes": ["Patience", "Faithfulness"],
       "major_events": ["Preaching to his people for 950 years", "Building of the Ark", "The Great Flood"],
@@ -29,6 +32,7 @@
       "mother": "Betenos"
     },
     {
+      "id": "4",
       "name": "Hud",
       "title": "Prophet",
       "attributes": ["Strength in faith"],
@@ -38,6 +42,7 @@
       "mother": "Unknown"
     },
     {
+      "id": "5",
       "name": "Saleh",
       "title": "Prophet",
       "attributes": ["Miraculous camel", "Advocacy for faith"],
@@ -47,7 +52,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Ibrahim (Abraham)",
+      "id": "6",
+      "name": "Ibrahim",
       "title": "Prophet",
       "attributes": ["Father of Prophets", "Khalilullah (Friend of Allah)"],
       "major_events": [
@@ -61,7 +67,8 @@
       "notable_children": ["Ismail", "Ishaq"]
     },
     {
-      "name": "Lut (Lot)",
+      "id": "7",
+      "name": "Lut",
       "title": "Prophet",
       "attributes": ["Advocate for morality"],
       "major_events": ["Preached to the people of Sodom", "Destruction of the cities of Sodom and Gomorrah"],
@@ -70,7 +77,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Ismail (Ishmael)",
+      "id": "8",
+      "name": "Ismail",
       "title": "Prophet",
       "attributes": ["Obedience to Allah", "Ancestral link to Arabs"],
       "major_events": [
@@ -83,7 +91,8 @@
       "mother": "Hagar"
     },
     {
-      "name": "Ishaq (Isaac)",
+      "id": "9",
+      "name": "Ishaq",
       "title": "Prophet",
       "attributes": ["Righteousness", "Wisdom"],
       "major_events": ["Birth as a miracle in old age of parents", "Blessing for future nations"],
@@ -92,7 +101,8 @@
       "mother": "Sarah"
     },
     {
-      "name": "Yaqub (Jacob)",
+      "id": "10",
+      "name": "Yaqub",
       "title": "Prophet",
       "attributes": ["Patience", "Father of the 12 tribes of Israel"],
       "major_events": ["Struggle and reconciliation with his brother Esau", "Dream of a ladder to heaven"],
@@ -101,7 +111,8 @@
       "mother": "Rifqah (Rebekah)"
     },
     {
-      "name": "Yusuf (Joseph)",
+      "id": "11",
+      "name": "Yusuf",
       "title": "Prophet",
       "attributes": ["Wisdom", "Forgiveness"],
       "major_events": [
@@ -114,7 +125,8 @@
       "mother": "Rahail (Rachel)"
     },
     {
-      "name": "Shu'ayb (Jethro)",
+      "id": "12",
+      "name": "Shu'ayb",
       "title": "Prophet",
       "attributes": ["Advocacy for honesty in trade"],
       "major_events": ["Preached to the people of Midian", "Warning against dishonest trade practices"],
@@ -123,7 +135,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Ayyub (Job)",
+      "id": "13",
+      "name": "Ayyub",
       "title": "Prophet",
       "attributes": ["Patience", "Perseverance through trials"],
       "major_events": ["Severe trials and loss of family", "Restoration of health and wealth by Allah"],
@@ -132,6 +145,7 @@
       "mother": "Unknown"
     },
     {
+      "id": "14",
       "name": "Dhulkifl",
       "title": "Prophet",
       "attributes": ["Patience", "Steadfastness"],
@@ -141,7 +155,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Musa (Moses)",
+      "id": "15",
+      "name": "Musa",
       "title": "Prophet and Messenger",
       "attributes": ["Leader of Israelites", "Recipient of Torah"],
       "major_events": [
@@ -154,7 +169,8 @@
       "mother": "Yokheved"
     },
     {
-      "name": "Harun (Aaron)",
+      "id": "16",
+      "name": "Harun",
       "title": "Prophet",
       "attributes": ["Orator", "Supporter of Musa"],
       "major_events": ["Assisted Musa in leading the Israelites", "Preached monotheism"],
@@ -163,7 +179,8 @@
       "mother": "Yokheved"
     },
     {
-      "name": "Dawud (David)",
+      "id": "17",
+      "name": "Dawud",
       "title": "Prophet and King",
       "attributes": ["Just ruler", "Psalmist"],
       "major_events": ["Defeated Goliath", "Became King of Israel", "Received the Zabur (Psalms)"],
@@ -172,7 +189,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Sulaiman (Solomon)",
+      "id": "18",
+      "name": "Sulaiman",
       "title": "Prophet and King",
       "attributes": ["Wisdom", "Control over jinn and animals"],
       "major_events": ["Ruled over a vast kingdom", "Built the First Temple in Jerusalem"],
@@ -181,7 +199,8 @@
       "mother": "Bathsheba"
     },
     {
-      "name": "Ilyas (Elijah)",
+      "id": "19",
+      "name": "Ilyas",
       "title": "Prophet",
       "attributes": ["Miraculous abilities", "Opposed idol worship"],
       "major_events": ["Opposed Baal worship", "Miraculous events"],
@@ -190,7 +209,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Alyasa (Elisha)",
+      "id": "20",
+      "name": "Alyasa",
       "title": "Prophet",
       "attributes": ["Companion of Ilyas", "Healer"],
       "major_events": ["Successor to Ilyas in preaching"],
@@ -199,7 +219,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Yunus (Jonah)",
+      "id": "21",
+      "name": "Yunus",
       "title": "Prophet",
       "attributes": ["Patience", "Repentance"],
       "major_events": ["Swallowed by a large fish", "Preached to the people of Nineveh"],
@@ -208,7 +229,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Zakariya (Zechariah)",
+      "id": "22",
+      "name": "Zakariya",
       "title": "Prophet",
       "attributes": ["Piety", "Father of Yahya"],
       "major_events": ["Miraculous conception of his son Yahya", "Martyrdom"],
@@ -217,7 +239,8 @@
       "mother": "Unknown"
     },
     {
-      "name": "Yahya (John the Baptist)",
+      "id": "23",
+      "name": "Yahya",
       "title": "Prophet",
       "attributes": ["Purity", "Preacher of repentance"],
       "major_events": ["Baptized people", "Martyrdom"],
@@ -226,7 +249,8 @@
       "mother": "Elisabeth"
     },
     {
-      "name": "Isa (Jesus)",
+      "id": "24",
+      "name": "Isa",
       "title": "Prophet and Messenger",
       "attributes": ["Miraculous birth", "Healer", "Raised by Allah"],
       "major_events": ["Born of the Virgin Maryam", "Performed miracles", "Ascension"],
@@ -235,6 +259,7 @@
       "mother": "Maryam (Mary)"
     },
     {
+      "id": "25",
       "name": "Muhammad",
       "title": "Prophet and Messenger",
       "attributes": ["Last Prophet", "Messenger of Islam"],
